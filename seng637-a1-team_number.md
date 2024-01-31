@@ -4,11 +4,11 @@
 
 | Group: Group Number 18     	  |
 |-----------------|
-| Student 1  Taran Bains           |   
-| Student 2  Balkarn Gill          |   
-| Student 3  Satchy Karalasingham  |   
-| Student 4  Hannah D'Souza        |   
-| Student 5  Chioma Ukaegbu        |   
+| Student 1 --  Taran Bains           |   
+| Student 2 -- Balkarn Gill          |   
+| Student 3 -- Satchy Karalasingham  |   
+| Student 4 -- Hannah D'Souza        |   
+| Student 5 -- Chioma Ukaegbu        |   
 
 
 **Table of Contents**
@@ -53,10 +53,12 @@ Text…
 
 # How the Pair Testing was Managed and Teamwork/Effort was Divided 
 
-The team was initially divided into two for the exploratory testing, to help the team members individually understand the application and the features/functionality. Then the team members went through the Test Cases outlined in Appendix C, discussed if the applications output should be expected or not, and added bugs that the team agreed on to the Jira board. 
+The team was initially divided into two for the exploratory testing, to help the team members individually understand the application and the features/functionality. Then the team members went through the Test Cases outlined in Appendix C, discussed if the applications output should be expected or not, and added bugs that the team agreed on to the Jira board.
+The team then divided up the bugs found in V1.0 to test the V1.0 application and record if bugs were resolved or still in progress.
 
 
 # Difficulties Encountered, Challenges Overcome, and Lessons Learned
 
-Text…
+There was a challenge in figuring out what exactly the application was supposed to do. Sometimes you would test a functionality during exploratory testing and get a result that seemed suspicious, but you were not 100% sure that it was an actual error. That would require a little more discussion amongst the team to figure out if other team members thought it was a bug or the system was supposed to do that. The manual scripted testing made it a little easier with having a description of what the expected outcome was supposed to be following the given steps. 
+The instructions for the assignment were a bit confusing due to the length, otherwise the lab was interesting and useful once we made sense of the instructions.
 
