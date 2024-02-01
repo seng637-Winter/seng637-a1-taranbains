@@ -43,16 +43,18 @@ The following two types of testing should be conducted:
 **Integration Testing:** individual software functions are combined and tested as a group.  
 **System Testing:** the entire complete, integrated application will be tested.  
 
-The scope of testing is presented in the table below:    
+The scope of testing is presented in the table below:  
 
-| Module	| Description |
+Table 1: Scope of Testing    
+
+| Module	| Description | Test Logistics
 | ------------- | ------------- |
-| Turn ATM On/Off  | Operator can turn the ATM application on and off.  |
-| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  |
-| Withdrawal  | User can withdraw money from an account of their choosing.  |
-| Deposit  | User can deposit money in an account of their choosing.  |
-| Money Transfer  | User can transfer money between accounts.  |
-| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  |
+| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains & Balkarn Gill 
+| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Taran Bains & Balkarn Gill 
+| Withdrawal  | User can withdraw money from an account of their choosing.  | Taran Bains & Balkarn Gill 
+| Deposit  | User can deposit money in an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  
+| Money Transfer  | User can transfer money between accounts.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
+| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
 
 
 # Comparison of Exploratory and Manual Functional Testing
@@ -66,12 +68,16 @@ In practice, a balanced approach that utilizes both methods can maximize the ben
 
 # Notes and Discussion of the Peer Reviews of Defect Reports
 
-Text…
+The observation of diverse testing strategies among team members proved to be an insightful aspect of the project. This variety in approach led to different groups discovering unique bugs, highlighting the importance of collaborative work and peer review in producing detailed and accurate defect reports. The advantage of teamwork in such projects cannot be overstated. Sole reliance on a single individual for testing increases the likelihood of missing defects, a risk that became evident during the exploratory testing phase. In many instances, bugs unnoticed by the person conducting the test were identified by their observing partner.
+
+Additionally, the project underscored the need for a uniform system for logging issues. When team members use varying formats and methods for reporting, it can complicate the process for everyone involved. Miscommunications in such a scenario can result in certain issues not being properly recorded and, as a consequence, not resolved. It’s imperative for the team to agree upon and follow a consistent method of communication and reporting. Such a unified approach is essential not just for maintaining clarity but also for improving the overall efficiency and effectiveness of the bug detection and resolution process.
+
 
 # How the Pair Testing was Managed and Teamwork/Effort was Divided 
 
-The team was initially divided into two for the exploratory testing, to help the team members individually understand the application and the features/functionality. Then the team members went through the Test Cases outlined in Appendix C, discussed if the applications output should be expected or not, and added bugs that the team agreed on to the Jira board.
-The team then divided up the bugs found in V1.0 to test the V1.0 application and record if bugs were resolved or still in progress.
+The team's testing process began with a split into two subgroups, each engaging in 'pair testing' to gain a detailed understanding of the application. This phase involved hands-on exploration, where one team member conducted tests while another observed and recorded any bugs, providing a dual perspective that proved effective in uncovering a wider range of defects. After this phase, the teams collectively reviewed and agreed upon the bugs to be reported, ensuring a unified and thorough approach to defect documentation in Jira.
+
+In the next phase, the team conducted manual scripted testing, following the predefined test cases from Appendix C. This approach allowed for a structured and comprehensive examination of the application, with each team member actively participating either as a tester or an observer. The identified defects were then carefully logged into Jira. In the final phase of regression testing on version 1.1, the team reassessed these bugs to determine which had been resolved and which still required attention, categorizing them accordingly in Jira. This methodical approach not only streamlined the defect tracking process but also enhanced the team's collaborative effort in refining the application.
 
 
 # Difficulties Encountered, Challenges Overcome, and Lessons Learned
