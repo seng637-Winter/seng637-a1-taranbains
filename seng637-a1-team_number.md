@@ -37,14 +37,14 @@ This assignment focuses on two different software methodologies: Exploratory and
 
 # High-level Description of the Exploratory Testing Plan
 
-The team initially set out to understand the application's behaviour by following the instructions under the "Familiarization with the ATM System". This will also allow the team to discover any critical defects or issues that would cause the entire application to crash. After following the set instructions, the team can explore specific features and functionalities of the application and taking notes on the output versus what they expect the output to be.  
+The team initially set out to understand the application's behaviour by following the instructions under the "Familiarization with the ATM System". This will also allow the team to discover any critical defects or issues that would cause the entire application to crash. After following the set instructions, the team can explore specific features and functionalities of the application and taking notes on the output versus what they expect the output to be. Most common functions/paths are tested extensively to ensure the applictaion works as expected in most cases, while also testing a few more less common paths. The focus is on testing the features used the most by the user. 
 
 
 # Comparison of Exploratory and Manual Functional Testing
 
-Exploratory testing offers adaptability and can uncover subtle, complex bugs through tester intuition and real-time investigation. It's especially useful in early development stages but may lack thorough coverage and test repeatability. Conversely, manual functional testing provides systematic coverage and repeatability, ensuring each application aspect functions as expected. While it excels in verification against established requirements, it may miss issues outside predefined test cases and can be resource-heavy due to test maintenance.
+Exploratory testing offers adaptability and can uncover subtle, complex bugs through tester intuition and real-time investigation. It's especially useful in early development stages but may lack thorough coverage and test repeatability. For exmaple, a tester may not be able to accurately reproduce a bug that caused the system to crash that they found through a very convoluted route. Conversely, manual functional testing provides systematic coverage and repeatability, ensuring each application aspect functions as expected. While it excels in verification against established requirements, it may miss issues outside predefined test cases and can be resource-heavy due to test maintenance.
 
-Effectiveness-wise, exploratory testing is superior for identifying new issues, whereas manual testing reliably checks for conformity to known expectations. Exploratory testing is quick to adapt and offers immediate feedback, but manual testing is time-efficient over multiple test cycles.
+Effectiveness-wise, exploratory testing is superior for identifying new issues especially with a tester experineced in the application, whereas manual testing reliably checks for conformity to known expectations. Exploratory testing is quick to adapt and offers immediate feedback, but manual testing is time-efficient over multiple test cycles.
 
 In practice, a balanced approach that utilizes both methods can maximize the benefits, with exploratory testing for ongoing learning and discovery, and manual testing for consistent validation and regression testing. The integration of both approaches caters to comprehensive quality assurance needs within a project's lifecycle.
 
