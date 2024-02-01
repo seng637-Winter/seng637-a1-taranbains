@@ -3,12 +3,12 @@
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 | Group: Group Number 18     	  |
-|-----------------|
-| Student 1 - Taran Bains           |   
-| Student 2 - Balkarn Gill          |   
-| Student 3 - Satchy Karalasingham  |   
-| Student 4 - Hannah D'Souza        |   
-| Student 5 - Chioma Ukaegbu        |   
+| ------------- | ------------- |
+| Student 1  | Taran Bains           |   
+| Student 2  | Balkarn Gill          |   
+| Student 3  | Satchy Karalasingham  |   
+| Student 4  | Hannah D'Souza        |   
+| Student 5  | Chioma Ukaegbu        |   
 
 
 **Table of Contents**
@@ -38,7 +38,7 @@ This assignment focuses on two different software methodologies: Exploratory and
 # High-level Description of the Exploratory Testing Plan
 
 The team initially set out to understand the application's behaviour by following the instructions under the "Familiarization with the ATM System". This will also allow the team to discover any critical defects or issues that would cause the entire application to crash. After following the set instructions, the team can explore specific features and functionalities of the application and taking notes on the output versus what they expect the output to be. Most common functions/paths are tested extensively to ensure the applictaion works as expected in most cases, while also testing a few more less common paths. The focus is on testing the features used the most by the user.   
-The following two types of testing should be conduced:  
+The following two types of testing should be conducted:    
 **Integration Testing:** individual software functions are combined and tested as a group.  
 **System Testing:** the entire complete, integrated application will be tested.  
 
