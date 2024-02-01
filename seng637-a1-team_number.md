@@ -47,14 +47,14 @@ The scope of testing is presented in the table below:
 
 Table 1: Scope of Testing    
 
-| Module	| Description | Test Logistics
-| ------------- | ------------- |
-| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains & Balkarn Gill 
-| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Taran Bains & Balkarn Gill 
-| Withdrawal  | User can withdraw money from an account of their choosing.  | Taran Bains & Balkarn Gill 
-| Deposit  | User can deposit money in an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  
-| Money Transfer  | User can transfer money between accounts.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
-| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
+| Module	| Description | Test Logistics |
+| ------------- | ------------- | ------------ |
+| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains & Balkarn Gill  |
+| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Taran Bains & Balkarn Gill  |
+| Withdrawal  | User can withdraw money from an account of their choosing.  | Taran Bains & Balkarn Gill  |
+| Deposit  | User can deposit money in an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu   |
+| Money Transfer  | User can transfer money between accounts.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  |
+| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  |
 
 
 # Comparison of Exploratory and Manual Functional Testing
