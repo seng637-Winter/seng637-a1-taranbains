@@ -37,7 +37,7 @@ This assignment focuses on two different software methodologies: Exploratory and
 
 # High-level Description of the Exploratory Testing Plan
 
-The team initially set out to understand the application's behaviour by following the instructions under the "Familiarization with the ATM System". This will also allow the team to discover any critical defects or issues that would cause the entire application to crash. After following the set instructions, the team can explore specific features and functionalities of the application and taking notes on the output versus what they expect the output to be. Most common functions/paths are tested extensively to ensure the applictaion works as expected in most cases, while also testing a few more less common paths. The focus is on testing the features used the most by the user.  
+The team initially set out to understand the application's behaviour by following the instructions under the "Familiarization with the ATM System". This will also allow the team to discover any critical defects or issues that would cause the entire application to crash. After following the set instructions, the team can explore specific features and functionalities of the application and taking notes on the output versus what they expect the output to be. Most common functions/paths are tested extensively to ensure the applictaion works as expected in most cases, while also testing a few more less common paths. The focus is on testing the features used the most by the user.  Any deviations or defects found were then recorded in Jira issue tracking system. 
  
 The following two types of testing should be conducted:    
 **Integration Testing:** individual software functions are combined and tested as a group.  
@@ -45,14 +45,19 @@ The following two types of testing should be conducted:
 
 The scope of testing is presented in the table below:    
 
-| Module	| Description |
+**Table 1:** Scope of testing
+| Module	| Description | Test Logistics
 | ------------- | ------------- |
-| Turn ATM On/Off  | Operator can turn the ATM application on and off.  |
-| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  |
-| Withdrawal  | User can withdraw money from an account of their choosing.  |
-| Deposit  | User can deposit money in an account of their choosing.  |
-| Money Transfer  | User can transfer money between accounts.  |
-| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  |
+| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains
+| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Satchy Karalasingham
+| Withdrawal  | User can withdraw money from an account of their choosing.  | Balkarn Gill
+| Deposit  | User can deposit money in an account of their choosing.  |Chioma Ukaegbu
+| Money Transfer  | User can transfer money between accounts.  | Hannah D'Souza
+| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Taran Bains
+
+
+
+Table 2: 
 
 
 # Comparison of Exploratory and Manual Functional Testing
