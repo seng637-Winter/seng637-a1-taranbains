@@ -43,18 +43,18 @@ The following two types of testing should be conducted:
 **Integration Testing:** individual software functions are combined and tested as a group.  
 **System Testing:** the entire complete, integrated application will be tested.  
 
-The scope of testing is presented in the table below:  
+The scope of testing is presented in the table below:
 
 Table 1: Scope of Testing    
 
-| Module	| Description | Test Logistics |
-| ------------- | ------------- | ------------ |
-| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains & Balkarn Gill  |
-| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Taran Bains & Balkarn Gill  |
-| Withdrawal  | User can withdraw money from an account of their choosing.  | Taran Bains & Balkarn Gill  |
-| Deposit  | User can deposit money in an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu   |
-| Money Transfer  | User can transfer money between accounts.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  |
-| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  |
+| Module	| Description | Test Logistics
+| ------------- | ------------- |
+| Turn ATM On/Off  | Operator can turn the ATM application on and off.  | Taran Bains & Balkarn Gill 
+| Inserting Card  | User can insert a valid or invalid card and pin number, with appropriate responses.  | Taran Bains & Balkarn Gill 
+| Withdrawal  | User can withdraw money from an account of their choosing.  | Taran Bains & Balkarn Gill 
+| Deposit  | User can deposit money in an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu  
+| Money Transfer  | User can transfer money between accounts.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
+| Balance Inquiry   | User can get an accurate balance of an account of their choosing.  | Satchy Karalasingham, Hannah D'Souza & Chioma Ukaegbu
 
 
 # Comparison of Exploratory and Manual Functional Testing
@@ -82,6 +82,7 @@ In the next phase, the team conducted manual scripted testing, following the pre
 
 # Difficulties Encountered, Challenges Overcome, and Lessons Learned
 
-There was a challenge in figuring out what exactly the application was supposed to do. Sometimes you would test a functionality during exploratory testing and get a result that seemed suspicious, but you were not 100% sure that it was an actual error. That would require a little more discussion amongst the team to figure out if other team members thought it was a bug or the system was supposed to do that. The manual scripted testing made it a little easier with having a description of what the expected outcome was supposed to be following the given steps. 
-The instructions for the assignment were a bit confusing due to the length, otherwise the lab was interesting and useful once we made sense of the instructions.
+In this project, the team learned the importance of having a solid plan in place before starting the testing process. Initially, they faced challenges in creating a comprehensive plan due to a lack of experience in such tasks. However, they quickly realized that a well-thought-out plan was crucial for guiding the team members and ensuring thorough testing. One of the main difficulties during the testing phase was identifying whether certain outcomes were actual bugs or just part of the software's functionality. This led to extensive discussions and collaboration among team members to reach a consensus on each potential issue. The manual scripted testing phase was somewhat smoother, as the expected outcomes were clearly outlined for each test case.
+
+The team also encountered challenges in using Jira for defect tracking, particularly in managing duplicate work across two separate projects. This experience taught them the efficiency of consolidating all issues into a single Jira project from the outset. Understanding the intended functionality of the software proved to be another challenge, especially when results obtained during testing seemed questionable. The team had to engage in discussions to determine whether these were genuine errors or expected behaviors. Despite some initial confusion due to the project's detailed instructions, the lab ultimately proved to be both interesting and educational, enhancing the team’s skills in software testing and collaboration.
 
